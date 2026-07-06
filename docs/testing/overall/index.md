@@ -18,7 +18,7 @@ Listed are checklists that explain how to **manually check** for each WCAG succe
 
 [Check your WCAG compliance](https://www.a11yproject.com/checklist/) by the A11y Project. The checks for the WCAG success criteria are ordered by topic.
 
-To officially document the results of your checks, use the [WCAG EM reporting tool](https://www.w3.org/WAI/eval/report-tool/) by the W3C.
+[WCAG-EM](https://w3.org/TR/WCAG-EM) is a process published by the W3C for testing larger websites with or without sampling. It comes with a tool to officially document the results of your checks, [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/).
 
 {: .callout  .info }
 **Note**: If you only want to test for the `accessibility-ready` requirements, please read [Set up testing for the WordPress themes accessibility-ready program]({{site.baseurl}}/docs/accessibility-ready/testing-themes/). These requirements don't cover all the WCAG success criteria.
